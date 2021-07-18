@@ -1,27 +1,27 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GA2J2UIOORZFQ77NSBMEEWXLPW7OCC24MW2QIGIZJNVUAFWNLVOSHQCF"
+"GASTSRK2HWTKSNJ5K3UF7GVDEKERG5G2X2U2KL4P5KKRPP72HJTNIMVD"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
-ORG_NAME="Cryptocurrency"
-ORG_URL="https://www.gemsociety.org"
-ORG_DESCRIPTION="TRON is a Blockchain with a cryptocurrency native to the system, known as TRX. Justin Sun founded the cryptocurrency in 2017."
-ORG_TWITTER="@GEMSOCIETY"
-ORG_LOGO="https://i.ibb.co/X3zWgxL/tronchain.png"
-ORG_OFFICIAL_EMAIL="gemsociety@gmail.com"
+ORG_NAME="StellarPumpSignals"
+ORG_URL="https://www.stellarpump.org"
+ORG_DESCRIPTION="Stellar’s cryptocurrency, the Stellar Lumen (XLM), powers the Stellar payment network. Stellar aims to connect banks, payment systems, and individuals quickly and reliably."
+ORG_TWITTER="@STELARPUMPSIGNALS"
+ORG_LOGO="https://i.ibb.co/w0jMcWr/stellarpump.jpg"
+ORG_OFFICIAL_EMAIL="stellarpumps.com"
 
 
 [[CURRENCIES]]
-code="TronChain"
-issuer="GA2J2UIOORZFQ77NSBMEEWXLPW7OCC24MW2QIGIZJNVUAFWNLVOSHQCF"
+code="StellarPump"
+issuer="GASTSRK2HWTKSNJ5K3UF7GVDEKERG5G2X2U2KL4P5KKRPP72HJTNIMVD"
 anchor_asset="false"
-name="TronChain"
-desc="TRON is a Blockchain with a cryptocurrency native to the system, known as TRX. Justin Sun founded the cryptocurrency in 2017."
-image="https://i.ibb.co/X3zWgxL/tronchain.png"
+name="StellarPump"
+desc="Stellar’s cryptocurrency, the Stellar Lumen (XLM), powers the Stellar payment network. Stellar aims to connect banks, payment systems, and individuals quickly and reliably."
+image="https://i.ibb.co/w0jMcWr/stellarpump.jpg"
 fixed_number=10000000
 max_number=10000000
 is_unlimited=false
-#TronChain was issued using the open and inclusive Stellar blockchain network.
+#StellarPump was issued using the open and inclusive Stellar blockchain network.
